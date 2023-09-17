@@ -23,6 +23,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: https://github.com/ThomasH2001/3-Column-Preview-Card-Component
+- Live Site URL: https://thomash2001.github.io/3-Column-Preview-Card-Component/
 
 ## My process
 
